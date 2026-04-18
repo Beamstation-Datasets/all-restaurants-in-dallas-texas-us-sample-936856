@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in Dallas, Texas with a population of over 1,304k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
+  "config_name": "All Restaurants in Dallas, Texas, US",
+  "export_job_id": "1fb3cc9a-26c6-49f1-9e4d-8b3a7c9dab3f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 936856,
+  "location_name": "Dallas",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-dallas-texas-us-sample-936856",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/936856/beamstation_936856_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.98,
+  "sample_records": 449,
+  "sample_sha256": "286479f7a342ef35d664c29c61bd93eb28385bb2d1c70d89ee6114d15bcc1b30",
+  "sample_size_bytes": 1566894,
+  "total_records": 4497,
+  "updated_at": "2026-04-14T18:59:58.854047+00:00"
+}
