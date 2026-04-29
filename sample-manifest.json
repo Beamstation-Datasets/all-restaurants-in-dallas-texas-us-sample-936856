@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d107790e-6d59-4979-9882-6150ed50f931",
+  "export_job_id": "7902aacc-3976-4ec7-bcc8-2f6a2be96d6a",
   "id_short": 936856,
-  "published_at": "2026-04-22T19:09:22Z",
+  "published_at": "2026-04-29T19:17:53Z",
   "repo_name": "all-restaurants-in-dallas-texas-us-sample-936856",
   "sample_asset_name": "beamstation_936856_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/936856/beamstation_936856_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 295,
-  "sample_sha256": "1461bdc8ed80e368b0a7d0ef65aa2b60a8b236bb174dae1bc218405febe0c03f",
-  "sample_size_bytes": 1047371,
-  "total_records": 2951
+  "sample_records": 418,
+  "sample_sha256": "ba1319eac769d2062a5aa17b9bae784f8500c8b3b2a3f71700f1284fad1fa415",
+  "sample_size_bytes": 1373698,
+  "total_records": 4186
 }
