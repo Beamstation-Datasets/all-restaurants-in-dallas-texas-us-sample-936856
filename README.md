@@ -1,6 +1,6 @@
 # All Restaurants in Dallas, Texas, US
 
-> Free BeamStation sample export with 418 rows and masked direct-contact fields.
+> Free BeamStation sample export with 470 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `936856` |
 | Location | Dallas |
 | Category | Restaurants |
-| Full dataset size | 4,186 records |
-| Free sample size | 418 records (9.99%) |
-| Last export | 2026-04-28T22:49:08.007063+00:00 |
+| Full dataset size | 4,704 records |
+| Free sample size | 470 records (9.99%) |
+| Last export | 2026-05-07T23:06:23.156089+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-dallas-texas-us-sample-936856/releases/download/sample-latest/beamstation_936856_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
